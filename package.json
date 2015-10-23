@@ -1,6 +1,8 @@
 {
   "name": "moon-flickr",
-  "assets": [],
+  "assets": [
+  	"assets/**/*.*"
+  ],
   "devAssets": [],
   "styles": [],
   "main": "index.js",
